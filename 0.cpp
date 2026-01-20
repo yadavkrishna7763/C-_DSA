@@ -9,7 +9,7 @@ int main()
     int sid = 1;
     int sage = 3;
     float sfees = 23.45;
-    string sname = "Abhisek";
+    string sname = "Abhisek yadav";
 
     cout << sid << endl
          << sage << endl
